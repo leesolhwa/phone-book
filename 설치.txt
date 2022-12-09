@@ -1,0 +1,8 @@
+리덕스 ==
+yarn add redux
+
+리액트 - 리더스 ===
+yarn add react-redux
+
+부트스트랩 ===
+npm install react-bootstrap bootstrap
